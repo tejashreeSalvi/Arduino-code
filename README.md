@@ -4,6 +4,9 @@
 #### The wheel consist of ```Johnson Motor``` and ```L293D``` to control the motor.
 #### The wheel as well as arm is controlled by ```PS2X```
 
-## IR-Sensor Mecanum
-#### This code is able to control Mecanum Wheel using IRSensor.
+## IR-Sensor Mecanum (IRSensorMecanum)
+#### This code is able to follow the line using IR Sensor and controlling Mecanum wheel Cytron Motor Driver.
+
+## PS2X-Controlled Mecanum 
+#### This code is able to control Mecanum Wheel using PS2X (JoyStick)
 
