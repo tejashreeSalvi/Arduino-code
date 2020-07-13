@@ -7,6 +7,6 @@
 ## IR-Sensor Mecanum (IRSensorMecanum)
 #### This code is able to follow the line using IR Sensor and controlling Mecanum wheel Cytron Motor Driver.
 
-## PS2X-Controlled Mecanum 
+## PS2X-Controlled Mecanum (NewMecanum)
 #### This code is able to control Mecanum Wheel using PS2X (JoyStick)
 
