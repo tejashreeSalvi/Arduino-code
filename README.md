@@ -10,3 +10,4 @@
 ## PS2X-Controlled Mecanum (NewMecanum)
 #### This code is able to control Mecanum Wheel using PS2X (JoyStick)
 
+## To run the code. Install ***[Arduino](https://www.arduino.cc/en/Main/Software)***
